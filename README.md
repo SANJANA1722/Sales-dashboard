@@ -1,5 +1,7 @@
 # Sales-dashboard
 
+ [dashboard](https://github.com/user-attachments/assets/80db6def-5e35-4de1-a958-5fb0c944219a)
+
 **Global Retail Dataset Documentation**  
 **Purpose:** A complex, multi-table dataset for Power BI data modeling and sales performance analysis.  
 
@@ -116,7 +118,11 @@ Converts sales amounts to a base currency (USD).
 | RateToUSD        | Conversion rate to USD              | 1.08               |  
 
 **Complexities**  
-- Missing dates require interpolation.  
+- Missing dates require interpol!
+-
+-
+-
+ation.  
 - Dynamic DAX conversion:  
 
 
